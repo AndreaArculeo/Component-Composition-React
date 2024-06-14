@@ -1,0 +1,11 @@
+div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  font-size: 2rem;
+  height: 6rem;
+  width: 10rem;
+  background-color: white;
+  border: 2px solid red;
+}
